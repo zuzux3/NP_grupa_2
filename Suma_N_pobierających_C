@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+  int i, n, x;
+  int suma = 0;
+  
+  
+  
+  return 0;
+}
